@@ -11,24 +11,6 @@ This repository demonstrates a complete **machine learning lifecycle**: from raw
 
 ---
 
-## 📌 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Problem Statement](#problem-statement)
-- [Dataset](#dataset)
-- [Tech Stack](#tech-stack)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Architecture](#model-architecture)
-- [Training Strategy](#training-strategy)
-- [Model Evaluation](#model-evaluation)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [TensorBoard Visualization](#tensorboard-visualization)
-- [Streamlit Web App](#streamlit-web-app)
-- [Regression Module](#regression-module)
-- [Interview Explanation](#interview-explanation)
-- [Future Improvements](#future-improvements)
-- [Author](#author)
 
 ---
 
